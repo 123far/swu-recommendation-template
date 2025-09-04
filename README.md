@@ -35,6 +35,3 @@
 3. 将正文示例，我这里使用的是占位符\lipsum[1-3]，修改为你的推荐信正文内容即可，例如将\lipsum[1-3]完全替换为"I am professor xxx"
 4. 将\signature{%\vspace{-12mm}\includegraphics[scale=0.40]{signature_swu.pdf}\\[-2mm]Prof.\ ZHANG San\\}这里的signature_swu.pdf替换为实际的教授电子签名，并将Prof.\ ZHANG San替换为教授实际姓名
 
-
-```
-```
