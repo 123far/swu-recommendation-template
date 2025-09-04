@@ -13,7 +13,7 @@
 #### 自行导入 Overleaf
 
 ```shell
-> git clone https://github.com/123far/swu-recommendation-template.git
+> git clone https://github.com/UltramanMebiuM78/swu-recommendation-template
 ```
 
 之后登陆 Overleaf，
