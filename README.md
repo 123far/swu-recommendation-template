@@ -13,12 +13,11 @@
 #### 自行导入 Overleaf
 
 ```shell
-> git clone https://github.com/TJ-CSCCG/tongji-recommendation-template.git
+> git clone https://github.com/123far/swu-recommendation-template.git
 ```
 
 之后登陆 Overleaf，新建项目后，将整个文件夹直接上传到项目中。
 
-为确保编译通过，需将 Overleaf 的 Menu/Compiler 设置为 **LuaLaTeX**。
 
 
 
@@ -26,9 +25,16 @@
 
 ![example-image](example.png)
 
-## :three: 许可证
+## :three: 使用说明
 
-使用 **LPPL-1.3c** 许可证。
+对于完全不懂Latex语法的同学来说，你需要做的只有如下内容:
+1. 将\def\TEL{\textbf{\color{swublue}Phone}: +86-88-8888888}
+\def\Email{\textbf{\color{swublue}E-mail}: zhangsan@swu.edu.cn}
+\def\URL{\textbf{\color{swublue}URL}: https://www.swu.edu.cn/}中的内容替换为导师信息
+2. 将开场问候\opening{To the Admissions Committee of Wild Chicken University,}修改为申请学校的信息
+3. 将正文示例，我这里使用的是占位符\lipsum[1-3]，修改为你的推荐信正文内容即可，例如将\lipsum[1-3]完全替换为"I am professor xxx"
+4. 将\signature{%\vspace{-12mm}\includegraphics[scale=0.40]{signature_swu.pdf}\\[-2mm]Prof.\ ZHANG San\\}这里的signature_swu.pdf替换为实际的教授电子签名，并将Prof.\ ZHANG San替换为教授实际姓名
+
 
 ```
 ```
