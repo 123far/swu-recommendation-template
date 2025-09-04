@@ -16,7 +16,10 @@
 > git clone https://github.com/123far/swu-recommendation-template.git
 ```
 
-之后登陆 Overleaf，新建项目后，将整个文件夹直接上传到项目中。
+之后登陆 Overleaf，
+```Website
+> https://cn.overleaf.com/project
+新建项目后，将整个文件夹直接上传到项目中。
 
 
 
