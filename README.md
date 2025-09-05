@@ -5,6 +5,8 @@
 ## :one: 使用
 
 ### 1. Overleaf
+#### 打包下载项目Zip文件自行导入 Overleaf(推荐)
+点击code，下载为Zip包，然后直接导入Overleaf
 
 #### 通过Overleaf新建项目
 
