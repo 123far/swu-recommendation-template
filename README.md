@@ -8,7 +8,7 @@
 
 #### 通过模板新建项目
 
-您可以通过以下链接访问 Overleaf 模板并使用：[![svg of overleaf-swurecommendationtemplate](https://img.shields.io/badge/Overleaf-TJ--CSCCG%2Ftongji--recommendation--template-green)](https://cn.overleaf.com/read/xjyjxxjknwgd#885bf8)
+您可以通过以下链接访问 Overleaf 模板并使用：[![svg of overleaf-swurecommendationtemplate](https://img.shields.io/badge/Overleaf-SWU--recommendation--template-green)](https://cn.overleaf.com/read/xjyjxxjknwgd#885bf8)
 
 #### 自行导入 Overleaf
 
